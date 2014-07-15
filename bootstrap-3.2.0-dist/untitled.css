@@ -1,0 +1,10 @@
+.HQ{
+	height:  : 100px; 
+	width: 1000px;
+	text-align: center;
+	background-color: #ff0000;
+}
+
+
+
+.sub{display:inline-block;}

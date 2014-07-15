@@ -1,0 +1,31 @@
+
+.btn-ME{
+	margin-right: 100px;
+}
+
+#hqtext{font-size:40px;
+
+}
+#hq{margin-bottom : 70px;
+	height: 50px;
+	width: 1000px;
+	background-color: skyblue;
+	text-align: center;
+}
+
+img{height:640px;
+	width:1136px;}
+body {
+	/**position: fixed;**/
+    padding-top: 100px;
+}
+#sub1{text-align: center;
+	  
+}
+
+/**img{
+	width: 200px
+	height: 100px ;
+
+}**/
+
